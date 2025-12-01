@@ -6,71 +6,41 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-### **💻 Programming Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" width="100" class="color-cycle" />
-</p>
-
-### **🎨 Web Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,react,nodejs" width="100" class="color-cycle" />
-</p>
-
-### **⚙️ Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" width="100" class="color-cycle" />
-</p>
-
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-@keyframes color-cycle {
-  0% { filter: hue-rotate(0deg); }
-  50% { filter: hue-rotate(180deg); }
-  100% { filter: hue-rotate(360deg); }
-}
-.color-cycle {
-  animation: bounce 2s infinite, color-cycle 5s infinite linear;
-}
-.icon-hover:hover { transform: scale(1.3) rotate(-10deg); transition: 0.3s; }
-</style>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omar_gomaa_1907&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar_gomaa_1907&layout=compact&theme=radical" />
-</p>
+<h1 align="center">👋 Hi, I'm Omar Gomaa</h1>
+<p align="center">Beginner Software Developer | Learning Full-Stack Development</p>
 
 ---
 
 ## 🚀 About Me
-Hi! I'm **Omar Gomaa**, a **beginner software developer** passionate about learning **Python, Java, and JavaScript**.  
-I’m currently exploring **full-stack web development**, building small projects to improve my skills step by step.  
-
-I love **experimenting with new technologies** and gradually working towards creating **real-world applications**.  
-I’m eager to learn, grow, and contribute to **open-source projects** as I gain experience.  
+I'm a **beginner developer** passionate about:
+- Backend (Python, Java)
+- Frontend (HTML, CSS, JS, React)
+- Building simple real projects to learn by doing  
+I aim to grow into a full-stack developer.
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Skills
+### Languages & Frameworks
 <p align="center">
-  <a href="https://github.com/omar_gomaa_1907" target="_blank" class="icon-hover">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omar-gomaa-1907/" target="_blank" class="icon-hover">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:omargomaa.10.7.22@gmail.com" target="_blank" class="icon-hover">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,git,github"/>
+</p>
+
+---
+
+## 📊 GitHub Overview
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=omar_gomaa_1907&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar_gomaa_1907&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Contact
+<p align="center">
+  <a href="mailto:omargomaa.10.7.22@gmail.com"><img width="40" src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://linkedin.com/in/omar-gomaa-1907/"><img width="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://github.com/omar_gomaa_1907"><img width="40" src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
