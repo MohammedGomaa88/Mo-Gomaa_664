@@ -1,7 +1,3 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
-</p>
 
 <!-- Animated Typing Text -->
 <h1 align="center">
@@ -14,17 +10,17 @@
 
 ### **💻 Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" width="60" class="color-cycle" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" width="100" class="color-cycle" />
 </p>
 
 ### **🎨 Web Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,react,nodejs" width="60" class="color-cycle" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,react,nodejs" width="100" class="color-cycle" />
 </p>
 
 ### **⚙️ Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" width="60" class="color-cycle" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" width="100" class="color-cycle" />
 </p>
 
 <style>
