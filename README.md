@@ -1,7 +1,7 @@
 
 <!-- Animated Typing Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00FFAA&center=true&vCenter=true&lines=Hi+I'm+Omar+👋;Beginner+Software+Developer;Python+%7C+Java+%7C+JavaScript;Web+Developer+%7C+Frontend+%26+Backend" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00FFAA&center=true&vCenter=true&lines=Hi+I'm+Omar+👋;Beginner+Software+Developer;Python+%7C+Java+%7C+JavaScript;Web+Developer+%7C+Frontend" />
 </h1>
 
 ---
