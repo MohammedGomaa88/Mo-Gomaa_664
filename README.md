@@ -51,15 +51,17 @@ Even as a beginner, I understand the importance of:
 
 ## Contact Me
 You can reach me through:
+
 <p align="center">
   <a href="https://github.com/omar_gomaa_1907" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:omargomaa.10.7.22@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
 </p>
+
 - **GitHub:** [omar_gomaa_1907](https://github.com/omar_gomaa_1907)   
 - **Email:** omargomaa.10.7.22@gmail.com  
 
@@ -68,3 +70,4 @@ You can reach me through:
 ### ⭐ Final Note
 Even though I am just starting out, I am **eager to learn, grow, and become a skilled software developer**.  
 I appreciate anyone who checks my work, gives feedback, or supports my projects. Every bit of learning counts on this journey!
+
