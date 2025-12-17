@@ -6,6 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
+Hello Omar ==> Mo_Go_664
 Hello! I'm **Omar Gomaa**, a **beginner software developer** with a strong passion for learning and building practical applications.  
 I am just starting my journey in programming, but I am enthusiastic about gaining more experience and improving my skills step by step.
 
